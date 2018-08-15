@@ -1,0 +1,8 @@
+# 2_1 max of two
+a = int(input())
+b = int(input())
+if a > b:
+    max = a
+else:
+    max = b
+print(max)
